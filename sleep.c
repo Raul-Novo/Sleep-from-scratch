@@ -1,5 +1,5 @@
 
-//cl /nologo /TC /std:c17 /W4 /O2 /GS- /Zl /c main.c
+//cl /nologo /TC /std:c17 /W4 /O2 /GS- /Zl /c sleep.c
 
 //link /nologo /NODEFAULTLIB /ENTRY:entry /SUBSYSTEM:CONSOLE /MACHINE:X64 main.obj /OUT:main.exe
 
